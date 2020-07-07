@@ -1,0 +1,33 @@
+body {
+    background-color: black ;
+    color:lime;
+}
+header {
+    height: 12em;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 3.7em;
+}
+
+
+  a {
+      color:lime;
+      font-size: 1.5em;
+  }
+
+  a:hover {
+      text-decoration: underline;
+      color:lime;
+      font-size: 3em;
+  }
+
+  a:active {
+      background-color:lime;
+      color: black;
+  }
+
+  

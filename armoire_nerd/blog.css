@@ -1,0 +1,53 @@
+body {
+    background-color: #f7efe1;
+    color: black;
+}
+
+header {
+    background-color: #f7efe1;
+    height: 12em;
+    
+}
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 3.7em;
+}
+
+a {
+      color: black;
+      font-size: 1.5em;
+      font-family: 'Roboto Mono', monospace;
+      
+  }
+
+  a:hover {
+      text-decoration: underline;
+      color: black;
+      font-size: 3em;
+      font-family: 'Roboto Mono', monospace;
+  }
+
+  a:active {
+      background-color: black;
+      color: white ;
+      font-family: 'Roboto Mono', monospace;
+  }
+
+.titre {
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    font-size: 2em ;
+    font-style: italic;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+.billet {
+    font-size: 1.5em;
+    line-height: 2em;
+    font-family: 'Roboto', sans-serif;
+}

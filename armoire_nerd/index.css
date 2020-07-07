@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+a { 
+    color: black;
+    font-size: 2em;
+}
+      
+  
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+
+    font-size: 4em
+}
+
+a:active {
+    background-color: black;
+    color: white;
+}
+
+.nom {
+    font-size: 9em;
+    margin:auto;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
